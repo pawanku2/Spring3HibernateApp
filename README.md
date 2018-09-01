@@ -1,2 +1,2 @@
 # Spring3HibernateApp
-test branching strategy
+java repo
