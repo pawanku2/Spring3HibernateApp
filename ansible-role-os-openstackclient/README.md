@@ -1,7 +1,7 @@
 OpenStack Client
 ================
 
-This role can be used to install the python package ``python-openstackclient``.
+This role can be used to install the python package ``python-openstackclient latest``.
 
 Requirements
 ------------
