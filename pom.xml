@@ -426,12 +426,12 @@
       <dependency>
          <groupId>org.springframework</groupId>
          <artifactId>spring-webmvc</artifactId>
-         <version>3.0.1.RELEASE</version>
+         <version>5.2.23.RELEASE</version>
       </dependency>
       <dependency>
          <groupId>org.springframework</groupId>
          <artifactId>spring-context</artifactId>
-         <version>3.0.1.RELEASE</version>
+         <version>5.2.23.RELEASE</version>
       </dependency>
       <dependency>
          <groupId>org.springframework</groupId>
@@ -461,7 +461,7 @@
       <dependency>
          <groupId>org.springframework</groupId>
          <artifactId>spring-expression</artifactId>
-         <version>3.0.1.RELEASE</version>
+         <version>5.2.23.RELEASE</version>
       </dependency>
       <dependency>
          <groupId>org.springframework</groupId>
