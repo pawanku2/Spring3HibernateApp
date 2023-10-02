@@ -294,7 +294,7 @@
       <dependency>
          <groupId>jaxen</groupId>
          <artifactId>jaxen</artifactId>
-         <version>1.1.1</version>
+         <version>1.1.6</version>
       </dependency>
       <dependency>
          <groupId>jdom</groupId>
@@ -344,7 +344,7 @@
       <dependency>
          <groupId>org.slf4j</groupId>
          <artifactId>slf4j-log4j12</artifactId>
-         <version>1.5.6</version>
+         <version>1.7.34</version>
       </dependency>
       <dependency>
          <groupId>javax.persistence</groupId>
@@ -410,7 +410,7 @@
       <dependency>
          <groupId>org.hibernate</groupId>
          <artifactId>hibernate</artifactId>
-         <version>3.2.6.ga</version>
+         <version>3.3.0.GA</version>
       </dependency>
       <dependency>
          <groupId>org.hibernate.common</groupId>
